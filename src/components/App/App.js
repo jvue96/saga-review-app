@@ -4,6 +4,8 @@ import './App.css';
 // have to import connect to talk to redux 
 import { connect } from 'react-redux'; 
 
+
+
 class App extends Component {
 
   componentDidMount () {
